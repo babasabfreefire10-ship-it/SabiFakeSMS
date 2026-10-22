@@ -1,0 +1,8 @@
+
+name = "sabi-fakesms"
+main = "worker.js"
+compatibility_date = "2026-10-22"
+
+[[kv_namespaces]]
+binding = "SMS_HISTORY"
+id = "VENDOS_KETU_KV_NAMESPACE_ID"
